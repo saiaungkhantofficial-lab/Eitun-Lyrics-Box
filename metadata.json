@@ -1,0 +1,5 @@
+{
+  "name": "Blue Leaf",
+  "description": "An AI-powered app that automatically generates synchronized LRC lyrics from MP3 files, correcting spelling and detecting language on the fly.",
+  "requestFramePermissions": []
+}
